@@ -49,7 +49,6 @@ Ernie-Finetuning-using-Unsloth
 ├── ernie_finetuning.ipynb  
 ├── README.md  
 ├── requirements.txt  
-└── assets (optional screenshots)
 
 ---
 
