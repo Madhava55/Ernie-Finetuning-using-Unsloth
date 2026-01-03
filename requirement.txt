@@ -1,0 +1,9 @@
+torch
+transformers==4.41.2
+datasets
+peft==0.12.0
+accelerate==0.30.1
+bitsandbytes
+unsloth==2024.12.10
+xformers<0.0.27
+trl<0.9.0
